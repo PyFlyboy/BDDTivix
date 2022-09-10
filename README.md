@@ -1,7 +1,7 @@
 
 #####Behave-BDD ReadMe######
 
-This is Behave examples with SeleniumBase Framework with Python integrated with Chrome and Edge browsers (NOT FIREFOX). 
+This is Behave examples with Python SeleniumBase Framework integrated with Chrome and Edge browsers (NOT FIREFOX). 
 
 SeleniumBase Commander lets you run test scripts from a Desktop GUI.
 
